@@ -1,0 +1,1659 @@
+
+
+ _______________________
+|     Mastering the     |
+|     Fundamentals      |
+|          of           |
+|      Mathematics      |
+|                       |
+|_______________________|
+
+
+
+
+
+## 1. Addition and Subtraction
+
+Topics: Place value, Adding whole numbers, Subtracting whole numbers, Carrying, Borrowing
+
+Def'n: borrow, carry, digit, place value, whole number
+
+
+## 2. Multiplication
+
+Topics: Determining how addition and multiplication are related, Multiplying whole numbers
+Def'n: times, units digit, whole number
+
+
+
+## 3. Long Division
+
+Topics: The meaning of division, Division of whole numbers, Long division with a 1-digit divisor, Division with remainders
+
+Def'n: dividend, divisor, quotient, remainder
+
+## 4. Introduction to Fractions
+
+Topics: Definition of fractions, Numerators and denominators, Equivalent fractions, Reducing fractions, Improper fractions
+	Mixed numbers
+
+Def'n: denominator, equivalent fractions, fraction, improper fraction, mixed number, numerator, reducing, convering from
+	a mixed number to an improper fraction, converting from an improper fraction to a mixed number
+
+
+## 5. Adding and Subtracting Fractions
+
+Topics: Adding and subtracting fractions with like denominators, Finding lowest common denominators, Adding and subtracting
+	fractions with unlike denominators
+
+Def'n: denominator, factor, fraction, improper fraction, least common denominator (LCD), like denominators, mixed number
+	multiples of a number, numerator, reducing
+
+
+## 6. Multiplying Fractions
+
+Topics: Multiplying fractions, Reducing fractions, Multiplying whole numbers and fractions, Multiplying mixed numbers and
+	 improper fractions
+
+Def'n: canceling, denominator, improper fraction, lowest terms, mixed number, numerator, product, reducing
+
+
+## 7. Dividing Fractions
+
+
+Topics: Dividing fractions, Reciprocals of fractions, Different notations to show division of fractions
+
+
+Def'n: Compound fraction, reciprocal
+
+
+
+## 8. Adding and Subtracting Decimals
+
+
+Topics: An introduction to decimal numbers, Place value, Adding decimal numbers, Subtracting decimal numbers
+
+Def'n: Decimal number, decimal point, hundredths place, tenths place
+
+
+
+## 9. Multiplying and Dividing Decimals
+
+Topics: Multiplying decimal numbers, Dividing decimal numbers
+
+Def'n: decimal number, decimal point
+
+
+
+## 10. Fractions, Decimals, and Percents
+
+
+Topics: Real-world examples of percents, Defining the term "percent.", Converting from percents to fractions, Converting
+	 from percents to decimals, Converting from fractions to decimals, Converting from decimals to fractions
+
+Def'n: percent
+
+Formulas and Rules: converting from decimals to fractions, converting from fractions to decimals, converting from percents
+			to decimals, converting from percents to fractions
+
+
+
+
+
+## 11. Percent Problems
+
+Topics: Real-world examples of percent problems, such as:
+
+		Calculating tips
+
+		Percent reduction
+
+		Sales tax
+
+		Percent as an amount of a whole
+
+		Percent reduction of an item already on sale
+
+		Percentage increase
+
+Def'n: percent
+
+
+## 12. Ratios and Proportions
+
+
+Topics: Ratios, Proportions, Cross multiplying
+
+Def'n: cross multiplying, proportion, ration
+
+Formulas and Rules: how to cross multiply
+
+
+## 13. Exponents and Order of Operations
+
+Topics: Exponentiation, Order of operations
+
+
+Def'n: exponent, exponentiation, operation, order of operations
+
+
+
+## 14. Negative and Positive Integers
+
+Topics: Signed numbers, Absolute value, Working with a number line, Addition and Subtraction of signed numbers
+		Multiplication and Division of signed numbers, Mixed operations with signed numbers
+
+
+Def'n: absolute value, integers, negative numbers, number line, signed number
+
+Formulas and Rules: Operations with signed numbers
+
+
+## 15. Introduction to Square Roots
+
+Topics: Defining the term "square root.", Real-world examples of square roots, Finding square roots of perfect squares
+		Finding square roots of numbers that are not perfect squares, Multiplying square roots, Adding and
+			subtracting square roots, Estimating square roots
+
+
+Def'n: bisection method, perfect square, radical, radical symbol, square root
+
+Formulas and Rules: Operations with square roots
+
+
+
+## 16. Negative and Fractional Powers
+
+
+Topics: Numbers raised to a fractional power, Numbers raised to a negative power
+
+Def'n: square of a number, square root
+
+Formulas and Rules: rule of fractional exponents, rule of negative exponents
+
+## 17. Graphing in the Coordinate Plane
+
+Topics: The coordinate plane, Definitions of terms, the x-axis and y-axis, Ordered pairs, Plotting ordered pairs
+		Graphing lines on the coordinate plane, Finding the midpoint of a line segment
+
+
+Def'n: Cartesian plane, coordinate, coordinate plane, midpoint, ordered pair, origin, quadrant, slope, x-axis, y-axis
+
+Formulas and Rules: midpoint of a line segment, slope of a straight line
+
+
+## 18. Geometry -- Triangles and Quadrilaterals
+
+
+Topics: Polygons, Triangles, Right angles, The area and perimeter of triangles, Parallelograms, The area and perimeter
+		of parallelograms
+
+Def'n: equiangular triangle, equilateral triangle, isosceles triangle, obtuse triangle, paralellogram, polygon
+	quadrilateral, rectangle, right angle, right triangle, scalene triangle, square, triangle, vertex
+
+Formulas and Rules: paralellograms, triangles
+
+## 19. Geometry -- Polygons and Circles
+
+Topics: Polygons with many sides, regular polygons, The sum of angles in a regular polygon, Circles, the radius and
+		diameter of a circle, The circumference and area of a circle
+
+
+Def'n: center of the circle, circle, circumference, decagon, diameter, equiangular, equilateral, heptagon, hexagon,
+	nonagon, octagon, pentagon, pi, radius, regular polygon
+
+Formulas and Rules: area of a circle, circumference of a circle, sum of degrees for a regular polygon
+
+
+
+## 20. Number Theory -- Prime Numbers and Divisors
+
+Topics: Divisors and factors, Prime numbers, Prime factorisation, Greatest common divisors, Least common factors
+		Least common denominators
+
+Def'n: divisor, factor, greatest common divisor (GCD), least common denominator (LCD), least common multiple (LCM)
+		number theory, prime factorisation, prime number, finding the greatest common factor
+			finding the least common denominator
+
+
+
+## 21. Number Theory -- Divisibility Tricks
+
+Topics: Even and odd numbers, Parity, Divisibility properties, Divisibility shortcuts
+
+
+Def'n: even number, odd number, parity
+
+Formulas and rules: addition and subtraction parity, divisibility rule for 2, divisibility rule for 3, divisibility
+			rule for 4, divisibility rule for 5, divisibility rule for 8, divisibility rule for 9
+				divisibility rule for 11, multiplication parity
+
+
+
+## 22. Introduction to Statistics
+
+Topics: Mean, Median, Mode, Range
+
+Def'n: mean, median, mode, range
+
+
+## 23. Introduction to Probability
+
+Topics: Historical background of probability, Sample space and outcome, Multiplication principle, Calculating probability
+		Theoretical probability
+
+Def'n: multiplication principle, outcome, sample space
+
+Formulas and Rules: theoretical probability
+
+
+
+## 24. Introduction to Algebra
+
+Topics: Variables and exponents, Adding algebraic expressions, Multiplying algebraic expressions, Dividing algebraic expressions
+
+Def'n: algebraic expression, numerical coefficient, variable
+
+Formulas and Rules: adding expressions with variables (like terms), dividing expressions with variables, multiplying expressions
+			with variables
+
+
+
+ _______________________
+|			|
+|			|
+| 	Algebra I	|
+|			|
+|			|
+|_______________________|
+
+
+
+
+
+## 1. An Introduction to the Course
+
+Topics: Course overview, Signed numbers, Absolute value, Operations with signed numbers, Fractions
+Def'n: Absolute value
+
+## 2. Order of Operations
+
+Topics: Order of operations
+
+Def'n: Sum, difference, product, quotient, exponent
+
+## 3. Percents, Decimals, and Fractions
+
+Topics: Percents, decimals, fractions, Conversion between percents, decimals, and fractions
+
+Def'n: Percent, Decimal, Fraction, Numerator, Denominator
+
+
+
+## 4. Variables and Algebraic Expressions
+
+Topics: Algebraic expression, variable, equation, How to translate words into an algebraic expression, How to translate a word
+	problem into an equation
+
+
+Def'n: Algebraic expression, variable, equation
+
+
+
+## 5. Operations and Expressions
+
+Topics: Simplifying algebraic expressions, Evaluating algebraic expressions by plugging in a number
+		Adding, subtracting, multiplying, and dividing terms
+
+Def'n: Evaluate
+
+
+
+## 6. Principles of Graphing in Two Dimensions
+
+Topics: Graphing in the Cartesian Plane, History of the Cartesian Plane, Ordered pairs
+
+Def'n: Cartesian or x-y plane, x-axis, y-axis, Origin, Quadrants, x-coordinate or abscissa, y-coordinate or ordinate, Ordered pair
+
+
+
+## 7. Solving Linear Equations, Part I
+
+Topics: Solving one-step equations, solving two-step equations, Substituting to see if the equation was solved properly
+
+Def'n: Solution of an equation, One-step equation, Two-step equation
+
+
+
+
+## 8. Solving Linear Equations, Part II
+
+Def'n: Identity
+
+Examples:
+
+## 9. Slope of a Line
+
+Topics: Determining slope, Determining slope from a graph, Determining slope from two points on a line, Negative and positive
+		slope, Slope of horizontal and vertical lines
+
+Def'n: Slope
+
+
+
+
+## 10. Graphing Linear Equations, Part I
+
+
+Topics: Slope-intercept form of a line, Drawing graphs based on the slope-intercept form
+
+Def'n: Slope-intercept form of a line
+
+
+
+## 11. Graphing Linear Equations, Part II
+
+Topics: The point-slope equation of a line
+
+Def'n: Point-slope form
+
+
+
+## 12. Parallel and Perpendicular Lines
+
+Topics: Parallel lines, Perpendicular lines, How to find a line that is parallel to another, How to fnd a line that is
+		perpendicular to another
+
+
+Def'n: Parallel lines
+Def'n: Perpendicular lines
+
+
+## 13. Solving Word Problems with Linear Equations
+
+Topics: Using tables of facts or values to determine Linear equations
+
+Def'n: Slope
+
+
+
+
+## 14. Linear Equations for Real-World Data
+
+Topics: Linear equations in the real world
+
+
+
+Additional Examples:
+
+
+
+## 15. Systems of Linear Equations, Part I
+
+
+Topics: Solving systems of linear equations by graphing, Solving systems of linear equations by substitution
+
+Def'n: System of linear equations, Solution of the system
+
+
+
+
+## 16. Systems of Linear Equations, Part II
+
+Topics: Solving systems of linear equations by elimination
+
+
+
+## 17. Linear Inequalities 
+
+Topics: Basic properties of inequalities, Inequalities on the number line, Graphing inequalities in the Cartesian plane
+
+
+
+## 18. An Introduction to Quadratic Polynomials
+
+Topics: The form of quadratic equations, Parabolas -- the graphs of quadratic equations, Simplifying expressions
+		Factoring out a greatest-common-factor (g.c.f), The FOIL method
+
+
+
+Def'n: Quadratic equation, Parabola
+
+
+
+
+
+## 19. Factoring Trinomials
+
+Topics: Finding solutions for quadratic equations, Zeros of the equation, Factoring quadratic equations
+
+
+Def'n: Zeroes of the equation, Binomial, Trinomial
+
+
+## 20. Quadratic Equations -- Factoring
+
+Topics: Factoring quadratic polynomials that have no constant, Factoring the difference of two-squares
+		Factoring perfect trinomials
+
+Def'n: Constant term, Perfect square trinomial, Difference of two-squares
+
+
+
+## 21. Quadratic Equations -- The Quadratic Formula
+
+Topics: Definition of the quadratic formula, Solving equations using the quadratic formula
+
+
+Def'n: The quadratic formula 
+
+
+
+## 22. Quadratic Equations -- Completing the Square
+
+
+Topics: Domain and range of a function, Completing the square to solve quadratic equations
+
+## 23. Representations of Quadratic Functions
+
+Topics: Parabolas, Graphing quadratic functions
+
+Def'n: Parabola, Vertex of a parabola
+
+
+
+## 24. Quadratic Equations in the Real World
+
+Topics: Using quadratic equations to solve real-world problems
+
+
+
+
+## 25. The Pythagorean Theorem
+
+
+Topics: Right triangles, Hypotenuse, Pythagorean theorem
+
+Def'n: Right triangle, Hypotenuse, Legs of a triangle, Pythagorean theorem
+
+
+
+
+## 26. Polynomials of Higher Degree
+
+
+Topics: Polynomial definition, Degree of a polynomial, Leading coefficient, Graphs of polynomials
+
+
+
+Def'n: Polynomial, Degree of a polynomial, Leading coefficient
+
+
+
+
+## 27. Operations and Polynomials
+
+
+Topics: Adding, subtracting, multiplying, and dividing polynomials
+
+
+
+## 28. Rational Expressions, Part I
+
+Topics: Rational expressions, Simplifying rational expressions, Adding and subtracting rational expressions
+		Finding common denominators for rational expressions
+
+Def'n: Rational expression
+
+
+
+
+
+## 29. Rational Expressions, Part II
+
+Topics: Multiplication of rational expressions, division of rational expressions
+
+
+
+
+## 30. Graphing Rational Functions, Part I 
+
+
+Topics: x-intercepts of graphs of rational functions, Vertical asymptotes, Horizontal asymptotes
+
+
+Def'n: Vertical asymptotes, Horizontal asymptotes, Dominant term
+
+
+
+
+## 31. Graphing Rational Functions, Part II
+
+
+Topics: Graphing rational functions
+
+
+
+
+
+## 32. Radical Expressions
+
+
+Topics: Radical expressions, Simplifying radical expressions, Addition and subtraction of radical expressions
+
+Def'n: Radical expression
+
+
+## 33. Solving Radical Equations
+
+Topics: Solving radical equations
+
+
+Def'n: Radical equations, Extraneous solution
+
+
+
+## 34. Graphing Radical Functions
+
+Topics: Graphing radical functions
+
+
+
+
+## 35. Sequences and Pattern Recognition, Part I
+
+Topics: Sequences, Geometric sequences, Arithmetic sequences
+
+
+Def'n: Sequence, Term, Geometric sequence, Arithmetic sequence, Common difference
+
+
+
+
+## 36. Sequences and Pattern Recognition, Part II
+
+Topics: Finding formulas for sequences, Finding patterns in sequences, Building sequences
+
+
+Def'n: First difference, Second difference
+
+
+
+
+
+
+
+
+
+ _______________________
+|                       |
+|                       |
+|      Algebra II       |
+|                       |
+|                       |
+|_______________________|
+
+
+
+
+
+
+## 1. An Introduction to Algebra II
+
+Topics: Course overview, The order of operations, The laws of exponents
+
+Def'n: Three index laws
+
+Example 1, Example 2, Example 3
+
+
+## 2. Solving Linear Equations
+
+Topics: Understanding the idea of a solution of a linear equation, Learning how to solve a wide variety of linear equations
+
+Summary: Our goal in this lesson is to begin to learn how to solve linear equations
+
+Def'n: Identity, Solution of a linear equation
+
+Example 1, Example 2, Example 3
+
+
+## 3. Solving Equations Involing Absolute Values
+
+
+Topics: Understanding the idea of absolute values (in relation to the real number line), Learning how to solve equations that
+		involve absolute values
+
+
+Def'n: absolute value, extraneous solution, origin
+
+Example 1, Example 2, Example 3
+
+
+
+## 4. Linear Equations and Functions
+
+
+Topics: Linear equations and functions, especially as they relate to their graphs, the slope-intercept formula and point-slope
+		formula for lines, and how each of these formulas is useful in its own right
+
+
+	The concept of parallel lines and how to identify them, The concept of perpendicular lines and how to identify them
+
+
+Def'n: parallel, perpendicular lines, point-slope form, slope-intercept form
+
+Example 1: Determine the slope-intercept form of the equation of this line
+
+Example 2: Write the equation of the line that has slope 5 that passes through the point (-1, -3)
+
+Example 3: Determine whether the lines given by ... are parallel
+
+Example 4: Find an equation of the line that is parallel to the line given by y = 5x - 1 and has y-intercept (0, 4)
+
+Example 5: Determine whether the lines given by y = 2x + 7 and 2x + 4y = 9 are perpendicular
+
+## 5. Graphing Essentials
+
+Topics: Sketching the graph of a line, given its equation, Learning different ways to transform the graph of one function into
+		the graph of another function by shifting the graph to the left or right, up or down, and through symmetry
+
+
+Example 1: Sketch the graph of the equation y - 6 = 1/2 * (x - 3)
+
+Example 2: Starting with the graph y = x^3 - x, determine the graphs of y = (x - 3)^(3) - (x - 3) and y = x^3 - x + 2
+
+Example 3: Given the graph of y = x^2, draw the graph of y = (x + 3)^(2) - 4
+
+
+
+
+
+
+## 6. Functions -- Introduction, Examples, Terminology
+
+Topics: The concept of a function, The meaning of the domain and range of a function and how to identify them, The vertical line
+		test, which helps us identify from its graph whether an equation is a function
+
+
+Def'n: composition of 2 functions, domain of a function, function, range of a function, vertical line test
+
+Example 1: Determine the domain and range of the function f(x) = (x - 3)^(1/2)
+
+Example 2: Let f(x) = 2x + 4 and g(x) = 3x + 2. Find the composition of f and g as well as the composition of g and f
+
+Example 3: Is this the graph of a function?
+
+
+
+## 7. Systems of 2 Linear Equations, Part I
+
+
+Topics: The concept of a system of linear equations and what a solution of such a system means, Envision a solution of a system
+		of linear equations by graphing, Using graphing to solve a system of linear equations
+
+
+Def'n: dependent system, inconsistent system, independent system, solution of a system, system of linear equations
+
+Example 1: Solve the following system of linear equations by graphing
+
+Example 2: Solve this system of linear equations by graphing
+
+Example 3: Solve the following system of linear equations by graphing
+
+## 8. Systems of 2 Linear Equations, Part II
+
+
+Topics: Solving systems of linear equations with the method of substitution, Solving systems of linear equations with the method
+		of elimination
+
+
+Example 1: Solve this system of linear equations
+
+Example 2: Solve this system of linear equations by elimination
+
+Example 3: Solve this system of linear equations using elimination
+
+
+
+
+
+## 9. Systems of 3 Linear Equations
+
+
+Topics: Solving a system of linear equations with 3 variables
+
+
+Example 1: Solve this system of 3 linear equations
+
+
+
+
+## 10. Solving Systems of Linear Inequalities
+
+
+Topics: Graphing the solution set of one inequality, Solving systems of linear inequalities
+
+
+Def'n: Strict inequality
+
+Example 1: Solve the system of inequalities given by y > x - 3, 2x + y < 4
+
+Example 2: Solve the system of inequalities given by y <_ 5x + 1, y _> 2x - 3
+
+
+
+## 11. An Introduction to Quadratic Functions
+
+Topics: Quadratic functions, Parabolas -- the graphs of quadratic functions
+
+
+Def'n: parabola, quadratic function, vertex of the parabola
+
+Example 1: Sketch the graph of h(x) = (x - 2)^(2)
+
+Example 2: Sketch the graph of f(x) = (x + 3)^(2) - 4
+
+
+## 12. Quadratic Functions -- Factoring
+
+Topics: Factoring quadratic polynomials by using greatest common factors, Factoring quadratic polynomials by using the opposite
+		of FOIL, Solving quadratic equations with factoring
+
+
+Def'n: x-intercepts
+
+Example 1: Determine the x-intercepts of the parabola whose equation is f(x) = 10x^2 - 8x
+
+Example 2: Solve 2x^2 + 8x - 20 = 5x
+
+Example 3: Solve the quadratic equation t^2 - 14 = 5t
+
+## 13. Quadratic Functions -- Square Roots
+
+Topics: The set of complex numbers, Solving quadratic equations by using square roots
+
+
+Def'n: i = (-1)^1/2
+
+Example 1: Solve the equation x^2 - 144
+
+Example 2: Solve (x - 3)^2 - 49 = 0
+
+Example 3: Solve (x - 6)^2 + 81 = 0
+
+
+## 14. Completing the Square
+
+Topics: How to complete the square, Using completing the square to quickly identify the vertex of a parabola
+		Using completing the square to solve quadratic equations
+
+Def'n: In order to complete the square for a quadratic function of the form f(x) = ax^2 + bx + c ...
+
+Example 1: Complete the square for the quadratic function f(x) = x^2 - 10x - 30
+
+Example 2: Solve the equation -x^2 + 8x = - 40
+
+Example 3: Find the coordinates of the vertex of the parabola whose equation is f(x) = x^2 - 12x + 47
+
+## 15. Using the Quadratic Formula
+
+Topics: Definition of the quadratic formula, Solving equations by using the quadratic formula, Definition of the discriminant
+		Using the sign of the discriminant to quickly determine the number of real number solutions of a quadratic eq'n
+
+
+Def'n: Quadratic formula, dicriminant
+
+
+Example 1: Solve x^2 - 7x - 14 = 5x + 10
+
+Example 2: Solve the equation 7x^2 + 10x + 8 = 4x^2 + 2x + 11
+
+
+
+
+## 16. Solving Quadratic Inequalities
+
+
+Topics: The definition of a quadratic inequality, Solving quadratic inequalities, Solving systems of quadratic inequalities
+
+Summary:
+
+Def'n: Quadratic inequality
+
+Example 1: Graph the solution set for y _> x^2 - 10x + 21
+
+Example 2: Solve the system of inequalities y _> x^2 - 8x + 7 and y <_ -x^2 + 6x
+
+Example 3: y < x^2 + 5x + 6 and y < -(x^2 - 10x + 21)
+
+
+## 17. Conic Sections -- Parabolas and Hyperbolas
+
+Topics: General history of conic sections, Geometric definition of parabolas and hyperbolas, Equations related to parabolas and
+		hyperbolas
+
+
+Def'n: directrix, focus, hyperbola, parabola, equation of a hyperbola, vertices of a hyperbola, asymptotes of a hyperbola
+
+
+Example 1: Graph the hyperbola given by the equation ((y^2)/(25) - (x^2)/(36)) = 1
+
+Example 2: Draw the graph of the equation 27x^2 - 12y^2 = 108
+
+
+## 18. Conic Sections -- Circles and Ellipses
+
+
+Topics: Continued discussion of conic sections, Ellipses, Circles
+
+Def'n: Center of the circle, circle, eccentricity of the ellipse, ellipse, major axis of the ellipse, minor axis of the ellipse
+		vertices of the ellipse, Equation of an ellipse, Equation of a circle
+
+
+Example 1: Determine the graph of the equation ((x^2)/(49) + (y^2)/(81)) = 1
+
+Example 2: Sketch the graph of the equation 4x^2 = 36 - 4y^2
+
+Example 3: Find the eccentricity of the ellipse given by the equation (x^2)/(49) + (y^2)/(81) = 1
+
+
+
+## 19. An Introduction to Polynomials
+
+Topics: The definition of a polynomial, The degree of a polynomial, Classifying polynomials by degree, Classifying polynomials by
+		the number of terms, Evaluating a polynomial at a value of the variable
+
+
+Def'n: degree of a polynomial, leading coefficient of a polynomial, polynomial, standard form of a polynomial, monomial, binomial
+		trinomial, linear polynomial, quadratic polynomial, cubic polynomial, quartic polynomial, quintic polynomial
+
+Example 1: Classify the polynomial 5x^3 - 1 by degree and by number of terms
+
+Example 2: Classify the polynomial x^4 - (1/3)(x)+(2/9) by degree and number of terms
+
+Example 3: Determine f(0), f(1), f(2), and f(-1) for the function f(x) = 2x^4 - 3x + 5
+
+Example 4: Determine whether the following are polynomials. If so, then state the degree of the polynomial
+
+		...
+
+		...
+
+		...
+
+
+
+## 20. Graphing Polynomial Functions
+
+Topics: Graphs of polynomials, The behavior of the "ends" of the graph of a polynomial, The number of x-intercepts of a graph of
+		a polynomial
+
+Example 1: Given that the graph of f(x) = x^3 is shown below, ... sketch the graph of the cubic functions g(x) = x^3 + 4 and
+		h(x) = (x - 1)^3
+
+Example 2: Sketch the graph of f(x) = x^4 - 4x^2
+
+
+
+## 21. Combining Polynomials
+
+Topics: Combining polynomials using the operations of addition, subraction, multiplication, and division, Composing 2 polynomials
+
+Def'n: Composing
+
+Example 1: Expand (x^2 - 7)(x^3 + 9x - 5x)
+
+Example 2: Determine f(g(x)) and g(f(x)) if f(x) = x^3 + 3x - 1 and g(x) = x^2 - 2
+
+Example 3: Find (x^4 - 7x^3 + 9x^2 - 5x + 3) - (2x^4 - 3x^3 + 8x^2 + 4x - 7)
+
+
+## 22. Solving Special Polynomial Equations
+
+Topics: Solving specific polynomial equations by using factoring
+
+
+Def'n: factoring using differences of 2 cubes
+
+	a^3 - b^3 = (a - b)(a^2 + ab + b^2)
+	a^3 + b^3 = (a + b)(a^2 - ab + b^2)
+
+Example 1: Solve the equation 2x^4 - 32x^2 = 0
+
+Example 2: Find all real number solutions for the equation 40x^3 + 5 = 0
+
+Example 3: Find all real solutions of x^4 + x^2 - 90 = 0
+
+
+
+
+## 23. Rational Roots of Polynomial Equations
+
+Topics: The rational roots theorem, The factor theorem
+
+
+Def'n: factor theorem, rational roots theorem
+
+Example 1: Find the rational roots of the equation x^3 - 3x^2 + x - 3
+
+Example 2: Use the rational roots theorem and the factor theorem to find all the real roots (rational and not rational) for the
+		polynomial equation x^3 - 6x^2 + 6x + 4 = 0
+
+
+
+## 24. The Fundamental Theorem of Algebra
+
+Topics: Descartes' rule of signs, The fundamental theorem of algebra
+
+
+Def'n: by-product of the fundamental theorem of algebra, Descartes' rule of signs, fundamental theorem of algebra
+
+Example 1: Using Descartes' rule of signs to determine how many positive and negative solutions there can be for the polynomial
+		equation 5x^7 - 8x^6 + 19x^3 + 2x^2 - 14x - 8 = 0
+
+Example 2: Determine the roots of the equation x^3 + 5x^2 + 13x + 21 = 0
+
+
+
+## 25. Roots and Radical Expressions
+
+
+Topics: The idea of the n'th root of a number, Simplifying a variety of expressions involving n'th roots, Rationalising the
+		denominator of a fraction
+
+
+Def'n: n'th root
+
+Example 1: Simplify 81^(1/4)
+
+Example 2: Find (-125)^(1/3)
+
+Example 3: Simplify (5 * ((243)^(1/4)))/((3)^(1/4))
+
+Example 4: Expand ((3)^(1/2) + (11^(1/2))) * ((3)^(1/2) - (11)^(1/2))
+
+Example 5: Simplify (5)/((2)^(1/2) - (3)^(1/2)) by rationalising the denominator
+
+Example 6: Simplify (-224)^(1/5)
+
+Example 7: Simplify (10 * (2)^(1/3)) + (54)^(1/3) - (7 * (16)^(1/3))
+
+
+
+## 26. Solving Equations Involving Radicals
+
+
+Topics: Connecting radicals to rational exponents, Solving equations that involve radicals or rational exponents
+		Checking for extraneous solutions to equations
+
+Def'n: extraneous solution
+
+Example 1: Solve (x + 3)^(1/3) = (5x - 9)^(1/3)
+
+Example 2: Solve 3x = 2x + (4x + 5)^(1/2)
+
+Example 3: Solve (x^5 + 6x^2 - 54)^(1/5) = x
+
+
+
+## 27. Graphing Power, Radical, and Root Functions
+
+Topics: Determining the domain of a function that involves rational powers or radicals, Plotting graphs of functions that involve
+		rational powers or radicals
+
+Summary:
+
+Example 1: Sketch the graph of f(x) = (x - 2)^(1/2) + 6
+
+Example 2: Sketch the graph of f(x) = x^(1/3)
+
+Example 3: Sketch the graph of f(x) = x^(2/3) - 4
+
+
+
+## 28. An Introduction to Rational Functions
+
+Topics: The definition of a rational function, The domain of a rational function, Horizontal and vertical asymptotes, Graphs of
+		rational functions
+
+Summary:
+
+Def'n: Domain of a rational function, rational function
+
+Example 1: Determine the domain and range of the function f(x) = (x^2 - 4) / (x^2 - 1)
+
+Example 2: Sketch the graph of y = (2x^2 - 8x + 6)/(x^2 - x - 6)
+
+Example 3: Sketch the graph of f(x) = (3(x - 1)(x + 1))/(x(x - 2)(x + 2))
+
+
+## 29. The Algebra of Rational Functions
+
+Topics: Combining rational functions using addition, subtraction, multiplication, division, and composition
+
+
+Example 1: Simplify (x^3 - x^2 - 6x)/(x^2 + 5x + 6)
+
+Example 2: Simplify (x)/(x^2 - 9) - (x)/(x^2 + 6x + 9)
+
+Example 3: Multiply (3x + 7)/(5x + 10) by x^2 + 7x + 10
+
+Example 4: Divide (x^2 + 13x + 40/x - 4) by (x + 8)/(x^2 - 16)
+
+Example 5: f(x) = (7x + 1)/(x + 4) and g(x) = (-4x + 1)/(x - 7). Find f(g(x))
+
+
+## 30. Partial Fractions
+
+Topics: Partial fractions
+
+
+Def'n: method of partial fractions, basic method of partial fractions, repeated linear term in the denominator
+		irreducible quadratic term in the denominator
+
+Example 1: Find the partial fraction decomposition of (2x + 1)/(x^2 + 2x - 3)
+
+Example 2: Find the partial fraction decomposition of (2)/(x^3 + x)
+
+Example 3: Find the partial fraction decomposition of (x + 3)/(x - 1)^2
+
+
+## 31. An Introduction to Exponential Functions
+
+Topics: The definition of an exponential function, Graphs of exponential functions, The difference between exponential functions
+		that grow and those that decay
+
+Summary:
+
+Def'n: base (of a logarithm), decay factor, exponential function, growth factor
+
+Examples:
+
+## 32. An Introduction to Logarithmic Functions
+
+Topics: An introduction to logarithmic functions, Properties of logarithms, Graphs of logarithms
+
+Summary:
+
+Def'n: logarithm, properties of logarithms (3)
+
+Examples:
+
+
+## 33. Uses of Exponential and Logarithmic Functions
+
+
+Topics: The change of base formula, Solving equations that contain exponential and logarithmic functions
+		Solving problems that involve continuous compounded interest (the pert formula)
+
+Def'n: change of base formula, pert formula
+
+Examples:
+
+## 34. The Binomial Theorem
+
+Topics: Pascal's triangle, The binomial theorem, The formula for each value in Pascal's triangle, often denoted C(n,r)
+		The factorial function, Expanding the powers of a binomial
+
+Summary:
+
+Definitions: binomial theorem (special case), factorial function, formula for elements of Pascal's triangle
+
+## 35. Permutations and Combinations
+
+Topics: Permutations, Combinations, The multiplication principle
+
+Summary:
+
+Def'n: combination, multiplication principle, permutation
+
+Examples:
+
+
+## 36. Elementary Probability
+
+Topics: Sample spaces and outcomes, The theoretical probability of events
+
+Summary: 
+
+Def'n: Sample space, theoretical probability
+
+Examples:
+
+
+
+
+ _______________________________
+|				|
+|				|
+| Precalculus and Trigonometry  |
+|				|
+|				|
+|_______________________________
+
+
+
+
+## 1. An Introduction to Precaclulus -- Functions
+
+Topics: Course overview, What is precalculus?, Functions, Domain and range, What makes precalculus difficult?
+
+Def'n: function, domain, range, independent variable, dependent variable, vertical line test
+
+Examples: 
+
+## 2. Polynomial Functions and Zeros
+
+Topics: Polynomial functions, Linear and quadratic functions, Zeros or roots of functions, The quadratic formula, Even and odd
+		functions, The Intermediate Value Theorem
+
+
+Def'n: polynomial function, linear polynomial, quadratic polynomial, zero, even, odd
+
+Theorem and Formula: quadratic formula, intermediate value theorem
+
+Examples: 
+
+
+## 3. Complex Numbers
+
+Def'n: imaginary unit 'i', complex/imaginary numbers, standard form, complex conjugate, axes, Mandelbrot set
+
+Theorem: Fundamental theorem of Algebra
+
+Examples: 
+
+
+## 4. Rational Functions
+
+Def'n: Rational function, domain of a rational function, vertical asymptote, horizontal asymptote
+
+Theorem: Test for Horizontal Asymptotes
+
+Examples: 
+
+## 5. Inverse Functions
+
+Def'n: Addition and multiplication of functions, composition of two functions, inverse of a function
+	 inverse functions and uniqueness, domain and range of an inverse function, graphs of inverse 
+	  functions and symmetry, one-to-one correspondence, horizontal line test
+
+
+Examples: Verifying Inverse Functions Algebraically, Finding Inverse Functions, Temperature Scales
+
+## 6. Solving Inequalities
+
+Interval Notation: Closed interval, open interval, infinite interval, infinite interval
+
+Properties of Inequalities
+
+Examples: Solving an Inequality, Solving an Inequality Involving Absolute Values
+
+Def'n: union symbol, intersection symbol, recurring number, set of all real numbers
+
+
+## 7. Exponential Functions
+
+Def'n: Exponential function, domain and range of an exponential function, increasing/decreasing exponential functions, 
+	horizontal asymptote, one-to-one, inverse of an exponential function, natural base e, natural exponential function
+
+Properties of Exponents (Index Laws)
+
+Formulas for Compound Interest
+
+Examples: The Graph of an Exponential Function, A Model for Radioactive Decay, An Application to Compound Interest
+
+
+## 8. Logarithmic Functions
+
+Def'n: logarithmic function, common logarithms, domain and range of a logarithmic function/increasing/decreasing intervals, 
+		intercept, vertical asymptote, one-to-one correspondence & inverse of a logarithmic function,
+		 graphs of logarithmic and exponential functions, natural logarithmic function
+
+The Rule of 70
+
+Properties of Logarithms
+
+Examples: Calculating Logarithms, Graphing Logarithmic Functions, Calculating Natural Logarithms
+
+## 9. Properties of Logarithms
+
+Theorems: Change of base formula, log-a-product, log-a-quotient, log-a-index
+
+The Rule of 72
+
+Examples: Calculating Logarithms, Simplifying Logarithms, Writing a Product as a Sum, The Rule of 72 
+
+## 10. Exponential and Logarithmic Equations
+
+Examples: Solving an Exponential Equation, Solving a Logarithmic Equation, Approximating the Solution of an Equation
+
+## 11. Exponential and Logarithmic Models
+
+Models: Exponential growth model, Exponential decay model, Gaussian model, Logistic growth model, Newton's law of Cooling
+Examples: Modeling Exponential Growth, A Gaussian Model for SAT Scores, Newton's Law of Cooling
+
+
+## 12. Introduction to Trigonometry and Angles
+
+Topics: Definition of angle, Coterminal angles, Complementary and supplementary angles, Degree measure and radian measure
+		Other units of angle measurement: minutes and seconds, Arc length formula, Linear and angular speed
+Def'n: angle, vertex, positive angle, negative angle, coterminal, degree, acute angle, right angle, obtuse angle, straight angle
+	full revolution, complementary, radian, minute, second, Linear speed, Angular speed, Quadrant
+Examples:
+
+## 13. Trigonometric Functions -- Right Angle Definition
+
+Topics: Pythagorean theorem, Triangle definition of the trigonometric functions, Trigonometric values for 30, 45, 60 degrees
+
+Def'n: Consider a right angle triangle with an acute angle theta. The six trigonometric functions are defined as follows
+		(sine, cosine, tangent, cosecant, secant, cotangent)
+
+Theorems: Pythagorean theorem, Pythagorean identities, reciprocal trigonometric identities
+
+Examples:
+
+
+## 14. Trigonometric Functions -- Arbitrary Angle Definition
+
+Topics: Trigonometric functions for an arbitrary angle, Quadrants and the sign of trigonometric functions, Trigonometric values
+		for common angles, Reference angles, Trigonometric functions as functions of real numbers
+
+
+Def'n: Let theta be an angle in standard position, let (x, y) be a point on the terminal side, and let r = (x^2 + y^2)^(1/2) neq 0
+	The 6 trigonometric functions are defined as follows
+
+	Let theta be an angle in standard position. Its reference angle is the acute angle theta prime, formed by the terminal
+		side of theta and the horizontal axis.
+
+Quadrants and the Signs of the Trigonometric Functions
+
+Trigonometric Values of Common Angles
+
+Examples:
+
+## 15. Graphs of Sine and Cosine Functions
+
+Topics: Graphs of sine and cosine functions, Graphs of the general sine and cosine functions y = d + asin(bx - c)
+	  y = d + acos(bx - c), Amplitude, Period, Horizontal translations and phase shifts, vertical translations
+
+Def'n: amplitude, period, phase shift, constant d determining vertical translation ... (of the general sine and cosine functions)
+
+Summary:
+
+
+## 16. Graphs of Other Trigonometric Functions
+
+
+Topics: Graphs of other trigonometric functions, Graphs of general trigonometric functions, Damped trigonometric graphs
+
+Summary:
+
+Examples:
+
+
+
+## 17. Inverse Trigonometric Functions
+
+Topics: Inverse trigonometric functions, Graphs of inverse trigonometric functions, Inverse properties
+
+Properties: y = arcsin(x), arcos(x), arctan(x), sin(arcsinx) = x and arcsin(siny) = y
+
+Summary: 
+
+Examples:
+
+
+
+## 18. Trigonometric Identities
+
+
+Topics: Trigonometric identities, Graphs of inverse trigonometric functions
+
+Formulas and Identities: Fundamental identities used to calculate trigonometric functions (6)
+			 Confunction identities found in trigonometry (3)
+			 Reciprocal identities found in trigonometry (3)
+
+Summary: 
+
+Examples:
+
+
+
+## 19. Trigonometric Equations
+
+
+Topics: Trigonometric equations, Approximate solutions to trigonometric equations
+
+Summary:
+
+Examples:
+
+
+
+## 20. Sum and Difference Formulas
+
+Topics: Sum and difference formulas, Double-angle formulas, Power reducing formulas
+
+
+Formulas: Sum and difference (3), Double angle (2), Power-reducing (2)
+
+Summary:
+
+Examples:
+
+
+
+
+## 21. Law of Sines
+
+
+Topics: The law of sines, Angle-angle-side (AAS) and angle-side-angle (ASA) problems, Side-side-angle (SSA) problems, Area formula
+
+Def'n: law of sines, area formula
+
+Summary:
+
+Examples:
+
+
+
+## 22. Law of Cosines
+
+Topics: The law of cosines, Side-side-side (SSS) and side-angle-side (SAS) problems, Side-side-angle (SSA) problems, Heron's area formula
+
+Def'n: Law of cosines
+
+Summary:
+
+Examples:
+
+
+
+
+## 23. Introduction to Vectors
+
+
+Topics: Vectors, vector operations, Unit vectors
+
+Def'n: directed line segment, initial point, terminal point, magnitude, equivalent, vector in the plane, standard position, components
+	component form, unit vector, standard unit vectors, trigonometric form, scalar
+
+Vector operations: Addition, scalar multiplication
+
+Summary:
+
+Examples:
+
+
+
+## 24. Trigonometric Form of a Complex Number 
+
+Topics: The trigonometric form of a complex number, Multiplication and Division using the Trigonometric form, De Moivre's Theorem
+
+
+Def'n and Theorem: Absolute value (or) modulus, trigonometric form of the complex number z = a + bi, Multiplication and division using
+			trigonometric form definition, De Moivre's Theorem, n distinct n'th real roots of a positive integer n of
+				a complex number z = r(cos(theta) + i * sin(theta))
+
+Summary:
+
+Examples:
+
+
+
+## 25. Systems of Linear Equations and Matrices
+
+Topics: Systems of linear equations, The method of substitution, Gaussian elimination and elementary row operations
+		Matrix representation of a linear system
+
+Def'n: Elementary row operations for systems of equations are defined as follows
+
+		- Interchange 2 equations
+
+		- Multiply one of the equations by a nonzero constant
+
+		- Add a multiple of one equation to another equation
+
+
+	Elementary row operations for matrices are defined as follows
+
+		- Interchange 2 rows
+
+		- Multiply a row by a nonzero constant
+
+		- Add a multiple of one row to another row
+
+
+Summary
+
+Example 1: The method of substitution
+
+Example 2: Solving a system by elimination
+
+Example 3: Matrix representation of a Linear System
+
+
+
+## 26. Operations with Matrices
+
+
+Topics: Matrices, Addition and scalar multiplication of matrices, Matrix multiplication, Applications to systems of linear equations
+
+
+Def'n: matrix, A = [a_ij]. The order of size of a matrix. sum of 2 matrices, scalar multiple of 2 matrices, zero matrix, identity matrix
+		product of two matrices
+
+Summary:
+
+Example 1: Addition and Scalar Multiplication of Matrices
+
+Example 2: Matrix Multiplication
+
+Example 3: Matrix Multiplication and Linear Systems
+
+
+
+## 27. Inverses and Determinants of Matrices
+
+
+Topics: Inverses of matrices, The inverse of a 2 x 2 matrix, Determinants
+
+
+Def'n: inverse of a square matrix, determinant, The matrix inverse algorithm, formula for 2 x 2 matrices
+
+Summary: 
+
+Example 1. Finding the Inverse of a Matrix
+
+Example 2. The Inverse of a 2 x 2 Matrix
+
+Example 3. Calculating Determinants
+
+
+
+## 28. Applications of Linear Systems and Matrices
+
+Topics: Cramer's Rule, Applications of linear systems, Computer graphics
+
+Def'n: Cramer's rule
+
+Summary:
+
+Example 1: Cramer's Rule
+
+Example 2: An Application of Linear Systems
+
+Example 3: Computer Graphics
+
+
+## 29. Circles and Parabolas
+
+Topics: Conic sections, Circles, Parabolas
+
+Def'n: conic section, circle, center of the circle, parabola, directrix, focus, vertex, axis
+
+Formulas: Standard form of a circle, Standard form of a parabola with vertex at (h, k)
+
+		Vertical axis, directrix y
+		Horizontal axis, directrix x
+
+Summary:
+
+Example 1: Finding the Equation of a Circle
+
+Example 2: Completing the Square
+
+Example 3: Standard Form of the Equation of a Parabola
+
+
+## 30. Ellipses and Hyperbolas
+
+Topics: Ellipses, Hyperbolas
+
+Def'n: Ellipse, foci, vertices, major axis, center, minor axis, eccentricity, hyperbola, foci, vertices, transverse axis, center
+
+Formulas: Standard form of ellipses with center at (h,k) and major and minor axes of lengths 2a and 2b
+
+		Horizontal major axis
+
+		Vertical major axis
+
+		The foci lie on the major axis, c units from the center, with c^2 = a^2 - b^2
+
+	  Standard form of hyperbolas with center at (h,k)
+
+		Transverse axis (horizontal)
+
+		Transverse axis (vertical)
+
+		Vertices 'a' units from the center. Foci 'c' units from the center
+
+Summary:
+
+Example 1: Sketching an Ellipse
+
+Example 2: A Whispering Gallery
+
+Example 3: Standard form of the Equation of a Hyperbola
+
+
+## 31. Parametric Equations
+
+Topics: Parametric Equations, Eliminating the parameter
+
+Def'n: plane curve, parametric equations, parameter, orientation
+
+Formulas: Parametric equations of the line through two points (x_1, y1) and (x_2, y_2), path of a projectile
+
+Summary:
+
+Example 1: Sketching a plane curve
+
+Example 2: An Ellipse
+
+Example 3: Parametric Equations for a Line
+
+
+## 32. Polar Coordinates
+
+Topics: Polar coordinates, Coordinate conversion, Polar equations and graphs
+
+Def'n: Polar coordinates
+
+Conversion formulas: Polar coordinates as related to rectangular coordinates
+
+Summary:
+
+Example 1: Plotting a Point in Polar Coordinates
+
+Example 2: Polar to Rectangular Conversion
+
+Example 3: Rectangular to Polar Conversion
+
+Example 4: A Polar Equation
+
+
+## 33. Sequences and Series
+
+Topics: Sequences, Limits of Sequences, Summation Notation, Series, Geometric Series
+
+
+Def'n: Infinite sequence, Fibonacci sequence, Factorial notation, Sum of the first 'n' terms of a sequence, index of summation
+		upper limit of summation, lower limit of summation, infinite geometric sequence, geometric series
+
+
+Theorems: Sum of a finite geometric series, sum of an infinite geometric series
+
+Summary:
+
+Example 1: Writing the Terms of a Sequence
+
+Example 2: The Fibonacci Sequence
+
+Example 3: Summation Notation
+
+Example 4: A Geometric Series
+
+
+
+
+## 34. Counting Principles
+
+Topics: Counting principles, Permutations, Combinations
+
+Def'n: Fundamental counting principle, Permutation
+
+Formulas: The number of permutations of 'n' elements, The number of permutations of 'n' elements taken 'r' at a time
+		The number of combinations of 'n' elements taken 'r' at a time
+
+Summary:
+
+Example 1: Using the Fundamental Counting Principle
+
+Example 2: Counting Horse Race Finishes
+
+Example 3: Counting Card Hands
+
+
+
+## 35. Elementary Probability
+
+
+Topics: Sample spaces, Probability, Mututally exclusive events, The complement of an event
+
+Def'n: experiment, outcomes, sample space, event, probability of an event, mutually exclusive, complement of an event
+
+Formulas: If A and B are mutually exclusive events, then ...
+
+	  If A and B are events in the same sample space, then the probability of A or B is ...
+
+	  The probability of the complement A' of an event A is ...
+
+Summary:
+
+Example 1: Finding the Sample Space
+
+Example 2: Finding the Probability of an Event
+
+Example 3: Mutually Exclusive Events
+
+Example 4: The Complement of an Event
+
+
+## 36. GPS Devices and Looking Forward to Calculus
+
+Topics: The Global Positioning System (GPS), Introduction to Calculus: The tangent line problem
+
+Def'n: The Global Positioning System
+
+Summary:
+
+Example 1: Finding a Point of Intersection
+
+Example 2: Finding the Slope of a Tangent Line to a Curve
+
+Example 3: The Tangent Line to a Curve
+
+

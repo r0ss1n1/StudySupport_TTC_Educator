@@ -1,0 +1,237 @@
+## Introduction to Precalculus
+## Sets, Elements, and Numbers
+## Variables, Equations, and Algebra
+## Coordinate Systems
+## Midpoints, Distance, the Pythagorean Theorem, and Slope
+## Word Problems
+## Idea of a Function
+## Graphs
+## Properties of Functions
+## Function Petting Zoo
+## Transformation of Functions
+## Composite Functions
+## Piecewise Functions
+## Inverse Functions
+## Variation, Direct and Inverse
+## Intro. to Polynomials
+## Roots (Zeroes) of Polynomials
+## Completing the Square and the Quadratic Formula
+## Properties of Quadratic Functions
+## Intermediate Value Theorem and Polynomial Division
+## Complex Numbers
+## Fundamental Theorem of Algebra
+## Rational Functions and Vertical Asymptotes
+## Horizontal Asymptotes
+## Graphing Asymptotes in a Nutshell
+## Partial Fractions
+## Understanding Exponents
+## Exponential Functions
+## Introduction to Logarithms
+## Properties of Logarithms
+## Solving Exponential and Logarithmic Equations
+## Application of Exponential and Logarithmic Functions
+## Angles, Ex. 1
+## Angles, Ex. 2
+## Angles
+## Sine and Cosine Functions, Ex. 1
+## Sine and Cosine Functions, Ex. 2
+## Sine and Cosine Functions
+## Sine and Cosine Values of Special Angles, Ex. 1
+## Sine and Cosine Values of Special Angles, Ex. 2
+## Sine and Cosine Values of Special Angles
+## Modified Sine Waves Asin(Bx + c)+D and Acos(Bx + C) + D, Ex. 1
+## Modified Sine Waves Asin(Bx + c)+D and Acos(Bx + C) + D, Ex. 2
+## Modified Sine Waves Asin(Bx + c)+D and Acos(Bx + C) + D
+## Tangent and Cotangent Functions, Ex. 1
+## Tangent and Cotangent Functions, Ex. 2
+## Tangent and Cotangent Functions
+## Secant and Cosecant Functions, Ex. 1
+## Secant and Cosecant Functions, Ex. 2
+## Secant and Cosecant Functions
+## Inverse Trigonometric Functions, Ex. 1
+## Inverse Trigonometric Functions, Ex. 2
+## Inverse Trigonometric Functions
+## Computations of Inverse Trigonometric Functions, Ex. 1
+## Computations of Inverse Trigonometric Functions, Ex. 2
+## Computations of Inverse Trigonometric Functions
+## Pythagorean Identity, Ex. 1
+## Pythagorean Identity, Ex. 2
+## Pythagorean Identity
+## Identity tan^2(x+1) = sec^2(x), Ex. 1 
+## Identity tan^2(x+1) = sec^2(x), Ex. 2
+## Identity tan^2(x+1) = sec^2(x)
+## Addition and Subtraction Formulas, Ex. 1
+## Addition and Subtraction Formulas, Ex. 2
+## Addition and Subtraction Formulas
+## Double Angle Formulas, Ex. 1
+## Double Angle Formulas, Ex. 2
+## Double Angle Formulas
+## Half-Angle Formulas, Ex. 1
+## Half-Angle Formulas, Ex. 2
+## Half-Angle Formulas
+## Trigonometry in Right Angles, Ex. 1
+## Trigonometry in Right Angles, Ex. 2
+## Trigonometry in Right Angles
+## Law of Sines, Ex. 1
+## Law of Sines, Ex. 2
+## Law of Sines
+## Law of Cosines, Ex. 1
+## Law of Cosines, Ex. 2
+## Law of Cosines
+## Finding the Area of a Triangle, Ex. 1
+## Finding the Area of a Triangle, Ex. 2
+## Finding the Area of a Triangle
+## Word Problems and Applications of Trigonometry, Ex. 1
+## Word Problems and Applications of Trigonometry, Ex. 2
+## Word Problems and Applications of Trigonometry
+## Systems of Linear Equations
+## Systems of Linear Inequalities
+## Nonlinear Systems
+## Vectors
+## Dot Product
+## Matrices
+## Determinants & Inverse Matrices
+## Using Matrices to Solve Systems of Linear Equations
+## Parametric Equations
+## Polar Coordinates
+## Polar Equations & Functions
+## Polar Form of Complex Numbers, Ex. 1
+## Polar Form of Complex Numbers, Ex. 2
+## Polar Form of Complex Numbers
+## De Moivre's Theorem, Ex. 1
+## De Moivre's Theorem, Ex. 2
+## De Moivre's Theorem
+## Counting
+## Permutations & Combinations
+## Probability
+## Parabolas
+## Circles
+## Ellipses
+## Hyperbolas
+## Conic Sections
+## Introduction to Sequences
+## Introduction to Series
+## Arithmetic Sequences and Series
+## Geometric Sequences and Series
+## Mathematical Induction
+## The Binomial Theorem
+## The Idea of a Limit
+## Formal Definition of a Limit
+## Finding Limits
+## Continuity & One-Sided Limits 
+## Limits at Infinity & Limits of Sequences
+## Instantaneous Slope & Tangents (Derivatives)
+## Area under a Curves (Integrals)
+## Buying a Graphing Calculator
+## Graphing Calculator Basics
+## Graphing Functions, Window Settings, & Table of Values
+## Finding Points of Interest
+## Parametric & Polar Graphs
+
+
+
+
+## Overview of Functions - Review of Functions
+## Overview of Functions - Compositions of Functions
+## Limits -- Average and Instantaneous Rates of Change
+## Limits -- Limit Investigations
+## Limits -- Algebraic Evaluation of Limits
+## Limits -- Formal Definition of a Limit
+## Limits -- Continuity and the Intermediate Value Theorem
+## Derivatives, I, Limit Definition of the Derivative
+## Derivatives, I, The Power Rule
+## Derivatives, I, The Product Rule
+## Derivatives, I, the Quotient Rule
+## Derivatives, I, Applications of Rates of Change
+## Derivatives, I, Trigonometric Derivatives
+## Derivatives, I, The Chain Rule
+## Derivatives, I, Inverse Trigonometric Functions
+## Derivatives, I, Equation of a Tangent Line
+## Derivatives, II, Implicit Differentiation
+## Derivatives, II, Higher Derivatives
+## Derivatives, II, Logarithmic and Exponential Function Derivatives
+## Derivatives, II, Hyperbolic Trigonometric Function Derivatives
+## Derivatives, II, Related Rates
+## Derivatives, II, Linear Approximation
+## Applications of Derivatives, Absolute Minima and Maxima
+## Applications of Derivatives, Mean Value Theorem and Rolle's Theorem
+## Applications of Derivatives, First Derivative Test, Second Derivative Test
+## Applications of Derivatives, L'Hospital's Rule
+## Applications of Derivatives, Curve Sketching
+## Applications of Derivatives, Applied Optimisation
+## Applications of Derivatives, Newton's Method
+## Integrals -- Approximating Areas and Distances
+## Integrals -- Riemann Sums, Definite Integrals, Fundamental Theorem of Calculus
+## Integrals -- Substitution Method for Integration
+## Applications of Integrals, I, Area Between Curves
+## Applications of Integrals, I, Volume by Method of Disks and Washers
+## Applications of Integrals, I, Volume by Method of Cylindrical Shells
+## Applications of Integrals, I, Average Value of a Function
+## Graphs of f, f', f''
+## Slope Fields for Differential Equations
+## Separable Differential Equations
+
+
+
+
+## Advanced integration, Integration by parts
+## Advanced integration, Integration of Trigonometric Functions
+## Advanced integration, Trigonometric Substitutions
+## Advanced integration, Partial Fractions
+## Advanced integration, Integration Tables
+## Advanced integration, Trapezoidal Rule, Midpoint Rule, Left-Right Endpoint Rule
+## Advanced integration, Simpson's Rule
+## Advanced integration, Improper Integration
+## Applications of integrals, Arc-length
+## Applications of integrals, Surface Area of Revolution
+## Applications of integrals, Hydrostatic Pressure
+## Applications of integrals, Center of Mass
+## Parametric functions, Parametric Curves
+## Parametric functions, Polar Coordinates
+## Sequences and Series, Sequences
+## Sequences and Series, Series
+## Sequences and Series, Integral test
+## Sequences and Series, Comparison test
+## Sequences and Series, Alternating Series
+## Sequences and Series, Ratio Test and Root Test
+## Sequences and Series, Power Series
+## Taylor and Maclaurin Series, Taylor Series and Maclaurin Series
+## Taylor and Maclaurin Series, Taylor Polynomial Approximations
+
+
+
+
+## Linear Equations and Matrices - Linear Systems
+## Linear Equations and Matrices - Matrices
+## Linear Equations and Matrices - Dot Product and Matrix Multiplication
+## Linear Equations and Matrices - Properties of Matrix Operation
+## Linear Equations and Matrices - Solutions of Linear Systems, I
+## Linear Equations and Matrices - Solutions of Linear Systems, II
+## Linear Equations and Matrices - Inverse of a Matrix
+## Determinants - Determinants
+## Determinants - Cofactors Expansions
+## Vectors in R(n) - Vectors in the Plane
+## Vectors in R(n) - n-Vector
+## Vectors in R(n) - Linear Transformations, I
+## Vectors in R(n) - Linear Transformations, II
+## Vectors in R(n) - Lines and Planes
+## Real Vector Spaces - Vector Spaces
+## Real Vector Spaces - Subspaces
+## Real Vector Spaces - Spanning Set for a Vector Space
+## Real Vector Spaces - Linear Independence
+## Real Vector Spaces - Basis & Dimension
+## Real Vector Spaces - Homogeneous Systems
+## Real Vector Spaces - Rank of a Matrix, I
+## Real Vector Spaces - Rank of a Matrix, II
+## Real Vector Spaces - Coordinates of a Vector
+## Real Vector Spaces - Change of Basis & Transformation Matrices
+## Real Vector Spaces - Orthonormal Bases in n-Space
+## Real Vector Spaces - Orthogonal Complements, I
+## Real Vector Spaces - Orthogonal Complements, II
+## Eigenvalues and Eigenvectors - Eigenvalues and Eigenvectors
+## Eigenvalues and Eigenvectors - Similar Matrices and Diagnonalisation
+## Eigenvalues and Eigenvectors - Diagonalisation of Symmetric Matrices
+## Linear Transformations - Linear Mappings Revisited
+## Linear Transformations - Kernel and Range of a Linear Map, I
+## Linear Transformations - Kernel and Range of a Linear Map, II
+## Linear Transformations - Matrix of a Linear Map

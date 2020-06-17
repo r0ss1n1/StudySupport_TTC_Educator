@@ -1,0 +1,95 @@
+## Vectors, Points and Vectors
+## Vectors, Scalar Product and Norm
+## Vectors, More on Vectors and Norms
+## Vectors, Inequalities and Parametric Lines
+## Vectors, Planes
+## Vectors, More on Planes
+## Differentiation of Vectors, Maps, Curves & Parameterizations
+## Differentiation of Vectors, Differentiation of Vectors
+## Functions of Several Variables, Functions of Several Variables
+## Functions of Several Variables, Partial Derivatives
+## Functions of Several Variables, Higher and Mixed Partial Derivatives
+## Chain Rule and The Gradient, The Chain Rule
+## Chain Rule and The Gradient, Tangent Plane
+## Chain Rule and The Gradient, Further Examples with Gradients and Tangents
+## Chain Rule and The Gradient, Directional Derivatives
+## Chain Rule and The Gradient, A Unified View of Derivatives for Mappings
+## Maxima and Minima, Maxima & Minima
+## Maxima and Minima, Further Examples with Extrema
+## Maxima and Minima, Lagrange Multipliers
+## Maxima and Minima, More Lagrange Multiplier Examples
+## Maxima and Minima, Lagrange Multipliers, Continued
+## Line Integrals and Potential Functions, Line Integrals
+## Line Integrals and Potential Functions, 
+## Line Integrals and Potential Functions, 
+## Line Integrals and Potential Functions, 
+## Line Integrals and Potential Functions, 
+## Line Integrals and Potential Functions, 
+## Double Integrals
+## Double Integrals
+## Double Integrals
+## Double Integrals
+## Double Integrals
+## Double Integrals
+## Triple Integrals
+## Triple Integrals
+## Surface Integrals and Stokes' Theorem
+## Surface Integrals and Stokes' Theorem
+## Surface Integrals and Stokes' Theorem
+## Surface Integrals and Stokes' Theorem
+## Surface Integrals and Stokes' Theorem
+## Surface Integrals and Stokes' Theorem
+## Surface Integrals and Stokes' Theorem
+##
+##
+##
+##
+##
+##
+##
+##
+##
+##
+##
+##
+##
+##
+##
+##
+
+
+
+
+
+
+
+## First-Order Equations, Linear Equations
+## First-Order Equations, Separable Equations
+## First-Order Equations, Slope & Direction Fields
+## First-Order Equations, Applications, Modeling & Word-Problems of First-Order Equations
+## First-Order Equations, Autonomous Equations & Phase Plane Analysis
+## Second-Order Equations, Distinct Roots of Second Order Equations
+## Second-Order Equations, Complex Roots of Second Order Equations
+## Second-Order Equations, Repeated Roots & Reduction of Order
+## Second-Order Equations, Undetermined Coefficients of Inhomogeneous Equations
+## Second-Order Equations, Inhomogeneous Equations, Variation of Parameters
+## Series Solutions, Review of Power Series
+## Series Solutions, Series Solution Near an Ordinary Point
+## Series Solutions, Euler Equations
+## Series Solutions, Regular Singular Points
+## Laplace Transform, Laplace Transforms
+## Laplace Transform, Inverse Laplace Transforms
+## Laplace Transform, Laplace Transform Initital Value Problems
+## Review of Linear Algebra
+## Systems of Equations, Distinct Real Eigenvalues
+## Systems of Equations, Complex Eigenvalues
+## Systems of Equations, Repeated Eigenvalues
+## Inhomogeneous Systems, Undetermined Coefficients for Inhomogeneous Systems
+## Inhomogeneous Systems, Variation of Parameters for Inhomogeneous Systems
+## Numerical Techniques, Euler's Method
+## Numerical Techniques, Runge-Kutta and the Improved Euler's Method
+## Partial Differential Equations, Review of Partial Derivatives
+## Partial Differential Equations, The Heat Equation
+## Partial Differential Equations, Separation of Variables
+## Partial Differential Equations, Fourier Series
+## Partial Differential Equations, Solution of the Heat Equation
